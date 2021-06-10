@@ -1,0 +1,1 @@
+SkinnedModelなどのモーションや、SkinnedEffectのモーションするモデルにシェーダーを反映する部分、フォントの対応を広げるWpfFontPipelineは自作でない。

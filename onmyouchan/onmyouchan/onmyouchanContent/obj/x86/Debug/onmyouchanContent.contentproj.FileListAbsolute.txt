@@ -1,0 +1,10 @@
+D:\onmyouchan\onmyouchan\onmyouchanContent\obj\x86\Debug\onmyouchanContent.contentprojResolveAssemblyReference.cache
+C:\Users\Mitsuhiro\Desktop\onmyouchan\onmyouchan\onmyouchanContent\obj\x86\Debug\onmyouchanContent.contentprojResolveAssemblyReference.cache
+C:\Users\game\Desktop\Dteam\onmyouchan\onmyouchan\onmyouchanContent\obj\x86\Debug\onmyouchanContent.contentprojResolveAssemblyReference.cache
+D:\ゲーム制作Ⅰ(チーム制作)\onmyouchan\onmyouchan\onmyouchanContent\obj\x86\Debug\onmyouchanContent.contentprojResolveAssemblyReference.cache
+C:\Users\Yasu\Desktop\10.1\onmyouchan\onmyouchan\onmyouchanContent\obj\x86\Debug\onmyouchanContent.contentprojResolveAssemblyReference.cache
+C:\Users\game\Desktop\チーム制作(最新版)\onmyouchan\onmyouchan\onmyouchanContent\obj\x86\Debug\onmyouchanContent.contentprojResolveAssemblyReference.cache
+C:\Users\game\Desktop\onmyouchan\onmyouchan\onmyouchanContent\obj\x86\Debug\onmyouchanContent.contentprojResolveAssemblyReference.cache
+C:\Users\Mitsuhiro\Documents\Visual Studio 2010\Projects\Dteam\onmyouchan\onmyouchan\onmyouchanContent\obj\x86\Debug\onmyouchanContent.contentprojResolveAssemblyReference.cache
+C:\Users\ichikawa\Documents\Onmyouchan\onmyouchan\onmyouchan\onmyouchanContent\obj\x86\Debug\onmyouchanContent.contentprojResolveAssemblyReference.cache
+D:\保存場所\学校系\課題\プログラム\2年\ゲーム制作(2年)\前期など\Dteam\onmyouchan\onmyouchan\onmyouchanContent\obj\x86\Debug\onmyouchanContent.contentprojResolveAssemblyReference.cache

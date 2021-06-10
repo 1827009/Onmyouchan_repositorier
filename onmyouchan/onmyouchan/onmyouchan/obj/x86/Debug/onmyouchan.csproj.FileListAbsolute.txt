@@ -1,0 +1,354 @@
+C:\Users\ichikawa\Documents\Onmyouchan\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Effect\ToonTexture.xnb
+C:\Users\ichikawa\Documents\Onmyouchan\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Effect\TriangleEffect.xnb
+C:\Users\ichikawa\Documents\Onmyouchan\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Effect\ToonEffect.xnb
+C:\Users\ichikawa\Documents\Onmyouchan\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\uv2_0.xnb
+C:\Users\ichikawa\Documents\Onmyouchan\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\onmyouchan.exe
+C:\Users\ichikawa\Documents\Onmyouchan\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\onmyouchan.pdb
+C:\Users\ichikawa\Documents\Onmyouchan\onmyouchan\onmyouchan\onmyouchan\obj\x86\Debug\onmyouchan.csprojResolveAssemblyReference.cache
+C:\Users\ichikawa\Documents\Onmyouchan\onmyouchan\onmyouchan\onmyouchan\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\ichikawa\Documents\Onmyouchan\onmyouchan\onmyouchan\onmyouchan\obj\x86\Debug\onmyouchan.exe
+C:\Users\ichikawa\Documents\Onmyouchan\onmyouchan\onmyouchan\onmyouchan\obj\x86\Debug\onmyouchan.pdb
+C:\Users\Mitsuhiro\Documents\Visual Studio 2010\Projects\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Effect\ToonTexture.xnb
+C:\Users\Mitsuhiro\Documents\Visual Studio 2010\Projects\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Effect\TriangleEffect.xnb
+C:\Users\Mitsuhiro\Documents\Visual Studio 2010\Projects\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Effect\ToonEffect.xnb
+C:\Users\Mitsuhiro\Documents\Visual Studio 2010\Projects\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\onmyouchan.exe
+C:\Users\Mitsuhiro\Documents\Visual Studio 2010\Projects\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\onmyouchan.pdb
+C:\Users\Mitsuhiro\Documents\Visual Studio 2010\Projects\Dteam\onmyouchan\onmyouchan\onmyouchan\obj\x86\Debug\onmyouchan.csprojResolveAssemblyReference.cache
+C:\Users\Mitsuhiro\Documents\Visual Studio 2010\Projects\Dteam\onmyouchan\onmyouchan\onmyouchan\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Mitsuhiro\Documents\Visual Studio 2010\Projects\Dteam\onmyouchan\onmyouchan\onmyouchan\obj\x86\Debug\onmyouchan.exe
+C:\Users\Mitsuhiro\Documents\Visual Studio 2010\Projects\Dteam\onmyouchan\onmyouchan\onmyouchan\obj\x86\Debug\onmyouchan.pdb
+C:\Users\ichikawa\Documents\Onmyouchan\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\GameModel\fuda1.xnb
+C:\Users\ichikawa\Documents\Onmyouchan\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\GameModel\fudauv1.xnb
+C:\Users\ichikawa\Documents\Onmyouchan\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\fudauv1_0.xnb
+C:\Users\game\Desktop\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\GameModel\fuda1.xnb
+C:\Users\game\Desktop\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Effect\ToonTexture.xnb
+C:\Users\game\Desktop\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\GameModel\fudauv1.xnb
+C:\Users\game\Desktop\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Effect\TriangleEffect.xnb
+C:\Users\game\Desktop\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Effect\ToonEffect.xnb
+C:\Users\game\Desktop\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\uv2_0.xnb
+C:\Users\game\Desktop\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\fudauv1_0.xnb
+C:\Users\game\Desktop\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\onmyouchan.exe
+C:\Users\game\Desktop\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\onmyouchan.pdb
+C:\Users\game\Desktop\onmyouchan\onmyouchan\onmyouchan\obj\x86\Debug\onmyouchan.csprojResolveAssemblyReference.cache
+C:\Users\game\Desktop\onmyouchan\onmyouchan\onmyouchan\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\game\Desktop\onmyouchan\onmyouchan\onmyouchan\obj\x86\Debug\onmyouchan.exe
+C:\Users\game\Desktop\onmyouchan\onmyouchan\onmyouchan\obj\x86\Debug\onmyouchan.pdb
+C:\Users\Mitsuhiro\Documents\Visual Studio 2010\Projects\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\GameModel\fuda1.xnb
+C:\Users\Mitsuhiro\Documents\Visual Studio 2010\Projects\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\GameModel\fudauv1.xnb
+C:\Users\Mitsuhiro\Documents\Visual Studio 2010\Projects\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\fudauv1_0.xnb
+C:\Users\Mitsuhiro\Documents\Visual Studio 2010\Projects\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\onmyouchan.exe.config
+C:\Users\ichikawa\Documents\Onmyouchan\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\onmyouchan.exe.config
+C:\Users\game\Desktop\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\onmyouchan.exe.config
+C:\Users\game\Desktop\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\SkinnedModel.dll
+C:\Users\game\Desktop\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\SkinnedModel.pdb
+C:\Users\game\Desktop\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\obakeUV1_0.xnb
+C:\Users\Mitsuhiro\Documents\Visual Studio 2010\Projects\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\SkinnedModel.dll
+C:\Users\Mitsuhiro\Documents\Visual Studio 2010\Projects\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\SkinnedModel.pdb
+C:\Users\Mitsuhiro\Documents\Visual Studio 2010\Projects\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Effect\SkinnedToonEffect.xnb
+C:\Users\Mitsuhiro\Documents\Visual Studio 2010\Projects\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\GameModel\moderuB1.xnb
+C:\Users\Mitsuhiro\Documents\Visual Studio 2010\Projects\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\GameModel\uv2.xnb
+C:\Users\ichikawa\Documents\Onmyouchan\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\GameModel\uv2.xnb
+C:\Users\ichikawa\Documents\Onmyouchan\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\GameModel\moderuB1.xnb
+C:\Users\ichikawa\Documents\Onmyouchan\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Effect\SkinnedToonEffect.xnb
+C:\Users\ichikawa\Documents\Onmyouchan\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\obakeUV1_0.xnb
+C:\Users\ichikawa\Documents\Onmyouchan\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\SkinnedModel.dll
+C:\Users\ichikawa\Documents\Onmyouchan\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\SkinnedModel.pdb
+C:\Users\game\Desktop\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\GameModel\uv2.xnb
+C:\Users\game\Desktop\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\GameModel\moderuB1.xnb
+C:\Users\game\Desktop\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Effect\SkinnedToonEffect.xnb
+C:\Users\game\Desktop\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\hakauv4_0.xnb
+C:\Users\game\Desktop\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\GameModel\hakakari4.xnb
+C:\Users\Mitsuhiro\Documents\Visual Studio 2010\Projects\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\GameModel\hakakari4.xnb
+C:\Users\Mitsuhiro\Documents\Visual Studio 2010\Projects\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\BackGround\title_backGround.xnb
+C:\Users\Mitsuhiro\Documents\Visual Studio 2010\Projects\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\item\title_logo.xnb
+C:\Users\Mitsuhiro\Documents\Visual Studio 2010\Projects\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\item\op.xnb
+C:\Users\Mitsuhiro\Documents\Visual Studio 2010\Projects\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Font\SpriteFont.xnb
+C:\Users\ichikawa\Documents\Onmyouchan\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\BackGround\title_backGround.xnb
+C:\Users\ichikawa\Documents\Onmyouchan\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\Item\title_logo.xnb
+C:\Users\ichikawa\Documents\Onmyouchan\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\Item\op.xnb
+C:\Users\ichikawa\Documents\Onmyouchan\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\GameModel\hakakari4.xnb
+C:\Users\ichikawa\Documents\Onmyouchan\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Font\SpriteFont.xnb
+C:\Users\ichikawa\Documents\Onmyouchan\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\hakauv4_0.xnb
+C:\Users\ichikawa\Documents\Onmyouchan\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Effect\ShadowEffect.xnb
+C:\Users\Mitsuhiro\Documents\Visual Studio 2010\Projects\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Effect\ShadowEffect.xnb
+C:\Users\Mitsuhiro\Documents\Visual Studio 2010\Projects\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\GameModel\obakeUV1.xnb
+C:\Users\Mitsuhiro\Documents\Visual Studio 2010\Projects\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\GameModel\obakebone3.xnb
+C:\Users\Mitsuhiro\Documents\Visual Studio 2010\Projects\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\GameUI\OhudaIconFrame.xnb
+C:\Users\Mitsuhiro\Documents\Visual Studio 2010\Projects\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\GameUI\OhudaIcon.xnb
+C:\Users\Mitsuhiro\Documents\Visual Studio 2010\Projects\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\GameUI\timeGage.xnb
+C:\Users\Mitsuhiro\Documents\Visual Studio 2010\Projects\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\GameUI\timeGageFrame.xnb
+C:\Users\Mitsuhiro\Documents\Visual Studio 2010\Projects\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\GameUI\No\0.xnb
+C:\Users\Mitsuhiro\Documents\Visual Studio 2010\Projects\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\GameUI\No\1.xnb
+C:\Users\Mitsuhiro\Documents\Visual Studio 2010\Projects\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\GameUI\No\2.xnb
+C:\Users\Mitsuhiro\Documents\Visual Studio 2010\Projects\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\GameUI\No\3.xnb
+C:\Users\Mitsuhiro\Documents\Visual Studio 2010\Projects\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\GameUI\No\4.xnb
+C:\Users\Mitsuhiro\Documents\Visual Studio 2010\Projects\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\GameUI\No\5.xnb
+C:\Users\Mitsuhiro\Documents\Visual Studio 2010\Projects\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\GameUI\No\6.xnb
+C:\Users\Mitsuhiro\Documents\Visual Studio 2010\Projects\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\GameUI\No\7.xnb
+C:\Users\Mitsuhiro\Documents\Visual Studio 2010\Projects\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\GameUI\No\8.xnb
+C:\Users\Mitsuhiro\Documents\Visual Studio 2010\Projects\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\GameUI\No\9.xnb
+C:\Users\Mitsuhiro\Documents\Visual Studio 2010\Projects\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\GameUI\GameMenu.xnb
+C:\Users\Mitsuhiro\Documents\Visual Studio 2010\Projects\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\GameUI\GameMenuFrame.xnb
+C:\Users\Mitsuhiro\Documents\Visual Studio 2010\Projects\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\GameUI\Cursor.xnb
+C:\Users\Mitsuhiro\Documents\Visual Studio 2010\Projects\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\GameUI\Ghost bar.xnb
+C:\Users\Mitsuhiro\Documents\Visual Studio 2010\Projects\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\GameUI\Ghost gather.xnb
+C:\Users\Mitsuhiro\Documents\Visual Studio 2010\Projects\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\GameUI\item flame.xnb
+C:\Users\Mitsuhiro\Documents\Visual Studio 2010\Projects\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\GameUI\HorizontallyCursor.xnb
+C:\Users\Mitsuhiro\Documents\Visual Studio 2010\Projects\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\Item\Page1.xnb
+C:\Users\Mitsuhiro\Documents\Visual Studio 2010\Projects\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\GameModel\IMG_2302.xnb
+C:\Users\Mitsuhiro\Documents\Visual Studio 2010\Projects\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Sample\O_Cube1.xnb
+C:\Users\Mitsuhiro\Documents\Visual Studio 2010\Projects\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Sample\O_Cube1_tx_0.xnb
+C:\Users\Mitsuhiro\Documents\Visual Studio 2010\Projects\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\BackGround\StageSelect.xnb
+C:\Users\Mitsuhiro\Documents\Visual Studio 2010\Projects\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\Item\Fade1L.xnb
+C:\Users\Mitsuhiro\Documents\Visual Studio 2010\Projects\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\Item\Fade1R.xnb
+C:\Users\ichikawa\Documents\Onmyouchan\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\GameUI\OhudaIconFrame.xnb
+C:\Users\ichikawa\Documents\Onmyouchan\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\GameUI\OhudaIcon.xnb
+C:\Users\ichikawa\Documents\Onmyouchan\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\GameUI\timeGage.xnb
+C:\Users\ichikawa\Documents\Onmyouchan\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\GameUI\timeGageFrame.xnb
+C:\Users\ichikawa\Documents\Onmyouchan\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\GameUI\No\0.xnb
+C:\Users\ichikawa\Documents\Onmyouchan\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\GameUI\No\1.xnb
+C:\Users\ichikawa\Documents\Onmyouchan\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\GameUI\No\2.xnb
+C:\Users\ichikawa\Documents\Onmyouchan\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\GameUI\No\3.xnb
+C:\Users\ichikawa\Documents\Onmyouchan\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\GameUI\No\4.xnb
+C:\Users\ichikawa\Documents\Onmyouchan\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\GameUI\No\5.xnb
+C:\Users\ichikawa\Documents\Onmyouchan\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\GameUI\No\6.xnb
+C:\Users\ichikawa\Documents\Onmyouchan\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\GameUI\No\7.xnb
+C:\Users\ichikawa\Documents\Onmyouchan\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\GameUI\No\8.xnb
+C:\Users\ichikawa\Documents\Onmyouchan\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\GameUI\No\9.xnb
+C:\Users\ichikawa\Documents\Onmyouchan\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\GameUI\GameMenu.xnb
+C:\Users\ichikawa\Documents\Onmyouchan\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\GameUI\GameMenuFrame.xnb
+C:\Users\ichikawa\Documents\Onmyouchan\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\GameUI\Cursor.xnb
+C:\Users\ichikawa\Documents\Onmyouchan\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\GameModel\IMG_2302.xnb
+C:\Users\ichikawa\Documents\Onmyouchan\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\GameUI\Ghost bar.xnb
+C:\Users\ichikawa\Documents\Onmyouchan\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\GameUI\Ghost gather.xnb
+C:\Users\ichikawa\Documents\Onmyouchan\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\GameUI\item flame.xnb
+C:\Users\ichikawa\Documents\Onmyouchan\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\GameUI\HorizontallyCursor.xnb
+C:\Users\ichikawa\Documents\Onmyouchan\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\Item\Page1.xnb
+C:\Users\ichikawa\Documents\Onmyouchan\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\GameModel\obakeUV1.xnb
+C:\Users\ichikawa\Documents\Onmyouchan\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\BackGround\StageSelect.xnb
+C:\Users\ichikawa\Documents\Onmyouchan\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\Item\Fade1L.xnb
+C:\Users\ichikawa\Documents\Onmyouchan\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\Item\Fade1R.xnb
+C:\Users\ichikawa\Documents\Onmyouchan\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\GameModel\obakebone3.xnb
+C:\Users\ichikawa\Documents\Onmyouchan\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Sample\O_Cube1.xnb
+C:\Users\ichikawa\Documents\Onmyouchan\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Sample\O_Cube1_tx_0.xnb
+C:\Users\ichikawa\Documents\Onmyouchan\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Sound\onmyouchanAudio.xgs
+C:\Users\Mitsuhiro\Documents\Visual Studio 2010\Projects\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\uv2_0.xnb
+C:\Users\Mitsuhiro\Documents\Visual Studio 2010\Projects\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\hakauv4_0.xnb
+C:\Users\Mitsuhiro\Documents\Visual Studio 2010\Projects\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\obakeUV1_0.xnb
+C:\Users\game\Desktop\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\GameUI\OhudaIconFrame.xnb
+C:\Users\game\Desktop\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\GameUI\OhudaIcon.xnb
+C:\Users\game\Desktop\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\GameUI\timeGage.xnb
+C:\Users\game\Desktop\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\GameUI\timeGageFrame.xnb
+C:\Users\game\Desktop\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\BackGround\title_backGround.xnb
+C:\Users\game\Desktop\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\Item\title_logo.xnb
+C:\Users\game\Desktop\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\GameUI\No\0.xnb
+C:\Users\game\Desktop\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\GameUI\No\1.xnb
+C:\Users\game\Desktop\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\GameUI\No\2.xnb
+C:\Users\game\Desktop\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\GameUI\No\3.xnb
+C:\Users\game\Desktop\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\GameUI\No\4.xnb
+C:\Users\game\Desktop\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\GameUI\No\5.xnb
+C:\Users\game\Desktop\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\GameUI\No\6.xnb
+C:\Users\game\Desktop\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\GameUI\No\7.xnb
+C:\Users\game\Desktop\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\GameUI\No\8.xnb
+C:\Users\game\Desktop\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\GameUI\No\9.xnb
+C:\Users\game\Desktop\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\GameUI\GameMenu.xnb
+C:\Users\game\Desktop\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\GameUI\GameMenuFrame.xnb
+C:\Users\game\Desktop\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\GameUI\Cursor.xnb
+C:\Users\game\Desktop\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\GameModel\IMG_2302.xnb
+C:\Users\game\Desktop\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\Item\op.xnb
+C:\Users\game\Desktop\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\GameUI\Ghost bar.xnb
+C:\Users\game\Desktop\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\GameUI\Ghost gather.xnb
+C:\Users\game\Desktop\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\GameUI\item flame.xnb
+C:\Users\game\Desktop\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\GameUI\HorizontallyCursor.xnb
+C:\Users\game\Desktop\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\Item\Page1.xnb
+C:\Users\game\Desktop\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\GameModel\obakeUV1.xnb
+C:\Users\game\Desktop\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\BackGround\StageSelect.xnb
+C:\Users\game\Desktop\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\Item\Fade1L.xnb
+C:\Users\game\Desktop\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\Item\Fade1R.xnb
+C:\Users\game\Desktop\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Effect\ShadowEffect.xnb
+C:\Users\game\Desktop\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\GameModel\obakebone3.xnb
+C:\Users\game\Desktop\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Sample\O_Cube1.xnb
+C:\Users\game\Desktop\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Font\SpriteFont.xnb
+C:\Users\game\Desktop\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Sample\O_Cube1_tx_0.xnb
+C:\Users\game\Desktop\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Sound\onmyouchanAudio.xgs
+C:\Users\Mitsuhiro\Documents\Visual Studio 2010\Projects\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\BackGround\ResultBack.xnb
+C:\Users\Mitsuhiro\Documents\Visual Studio 2010\Projects\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\Item\Result.xnb
+C:\Users\Mitsuhiro\Documents\Visual Studio 2010\Projects\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\Item\KaStamp.xnb
+C:\Users\Mitsuhiro\Documents\Visual Studio 2010\Projects\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\Item\RyoStamp.xnb
+C:\Users\Mitsuhiro\Documents\Visual Studio 2010\Projects\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\Item\YuStamp.xnb
+C:\Users\Mitsuhiro\Documents\Visual Studio 2010\Projects\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\Item\SyuStamp.xnb
+C:\Users\Mitsuhiro\Documents\Visual Studio 2010\Projects\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Sound\onmyouchanAudio.xgs
+C:\Users\Mitsuhiro\Documents\Visual Studio 2010\Projects\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Sound\WaveBank.xwb
+C:\Users\Mitsuhiro\Documents\Visual Studio 2010\Projects\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Sound\SoundBank.xsb
+C:\Users\game\Desktop\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\BackGround\ResultBack.xnb
+C:\Users\game\Desktop\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\Item\Result.xnb
+C:\Users\game\Desktop\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\Item\KaStamp.xnb
+C:\Users\game\Desktop\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\Item\RyoStamp.xnb
+C:\Users\game\Desktop\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\Item\SyuStamp.xnb
+C:\Users\game\Desktop\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\Item\YuStamp.xnb
+C:\Users\game\Desktop\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Sound\WaveBank.xwb
+C:\Users\game\Desktop\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Sound\SoundBank.xsb
+C:\Users\game\Desktop\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\GameModel\hikiyoseUV.xnb
+C:\Users\game\Desktop\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\GameModel\oharaiUV.xnb
+C:\Users\game\Desktop\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\GameModel\hikiyose1.xnb
+C:\Users\game\Desktop\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\hikiyoseUV_0.xnb
+C:\Users\game\Desktop\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\GameModel\oharai1.xnb
+C:\Users\game\Desktop\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\oharaiUV_0.xnb
+C:\Users\Mitsuhiro\Documents\Visual Studio 2010\Projects\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\GameModel\hikiyoseUV.xnb
+C:\Users\Mitsuhiro\Documents\Visual Studio 2010\Projects\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\GameModel\oharaiUV.xnb
+C:\Users\Mitsuhiro\Documents\Visual Studio 2010\Projects\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\GameModel\hikiyose1.xnb
+C:\Users\Mitsuhiro\Documents\Visual Studio 2010\Projects\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\GameModel\oharai1.xnb
+C:\Users\Mitsuhiro\Documents\Visual Studio 2010\Projects\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\hikiyoseUV_0.xnb
+C:\Users\Mitsuhiro\Documents\Visual Studio 2010\Projects\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\oharaiUV_0.xnb
+C:\Users\Mitsuhiro\Documents\Visual Studio 2010\Projects\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Sound\SeWaveBank.xwb
+C:\Users\Mitsuhiro\Documents\Visual Studio 2010\Projects\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Sound\SeSoundBank.xsb
+C:\Users\Mitsuhiro\Documents\Visual Studio 2010\Projects\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\GameModel\enemyhakaUV.xnb
+C:\Users\Mitsuhiro\Documents\Visual Studio 2010\Projects\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\GameModel\EnemyHaka.xnb
+C:\Users\Mitsuhiro\Documents\Visual Studio 2010\Projects\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\enemyhakaUV_0.xnb
+C:\Users\Mitsuhiro\Documents\Visual Studio 2010\Projects\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\Item\Quest1.xnb
+C:\Users\Mitsuhiro\Documents\Visual Studio 2010\Projects\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\Item\Quest2.xnb
+C:\Users\Mitsuhiro\Documents\Visual Studio 2010\Projects\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\Item\Quest3.xnb
+C:\Users\Mitsuhiro\Documents\Visual Studio 2010\Projects\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\Item\ResultCharacter1.xnb
+C:\Users\Mitsuhiro\Documents\Visual Studio 2010\Projects\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\Item\ResultCharacter2.xnb
+C:\Users\Mitsuhiro\Documents\Visual Studio 2010\Projects\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\Item\ResultCharacter3.xnb
+C:\Users\Mitsuhiro\Documents\Visual Studio 2010\Projects\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\Item\ResultCharacter4.xnb
+C:\Users\Mitsuhiro\Documents\Visual Studio 2010\Projects\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\Item\howtogame.xnb
+C:\Users\Mitsuhiro\Documents\Visual Studio 2010\Projects\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\Item\howtoplay2.xnb
+C:\Users\Mitsuhiro\Documents\Visual Studio 2010\Projects\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\Item\howtoplayt3.xnb
+C:\Users\ichikawa\Documents\Onmyouchan\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\BackGround\ResultBack.xnb
+C:\Users\ichikawa\Documents\Onmyouchan\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\Item\Result.xnb
+C:\Users\ichikawa\Documents\Onmyouchan\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\Item\KaStamp.xnb
+C:\Users\ichikawa\Documents\Onmyouchan\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\Item\RyoStamp.xnb
+C:\Users\ichikawa\Documents\Onmyouchan\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\Item\SyuStamp.xnb
+C:\Users\ichikawa\Documents\Onmyouchan\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\Item\YuStamp.xnb
+C:\Users\ichikawa\Documents\Onmyouchan\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\GameModel\hikiyoseUV.xnb
+C:\Users\ichikawa\Documents\Onmyouchan\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\GameModel\oharaiUV.xnb
+C:\Users\ichikawa\Documents\Onmyouchan\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\GameModel\enemyhakaUV.xnb
+C:\Users\ichikawa\Documents\Onmyouchan\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\Item\Quest1.xnb
+C:\Users\ichikawa\Documents\Onmyouchan\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\Item\Quest2.xnb
+C:\Users\ichikawa\Documents\Onmyouchan\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\Item\Quest3.xnb
+C:\Users\ichikawa\Documents\Onmyouchan\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\Item\ResultCharacter1.xnb
+C:\Users\ichikawa\Documents\Onmyouchan\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\Item\ResultCharacter2.xnb
+C:\Users\ichikawa\Documents\Onmyouchan\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\Item\ResultCharacter3.xnb
+C:\Users\ichikawa\Documents\Onmyouchan\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\Item\ResultCharacter4.xnb
+C:\Users\ichikawa\Documents\Onmyouchan\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\Item\howtogame.xnb
+C:\Users\ichikawa\Documents\Onmyouchan\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\Item\howtoplay2.xnb
+C:\Users\ichikawa\Documents\Onmyouchan\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\Item\howtoplayt3.xnb
+C:\Users\ichikawa\Documents\Onmyouchan\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\GameModel\hikiyose1.xnb
+C:\Users\ichikawa\Documents\Onmyouchan\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\GameModel\oharai1.xnb
+C:\Users\ichikawa\Documents\Onmyouchan\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\GameModel\EnemyHaka.xnb
+C:\Users\ichikawa\Documents\Onmyouchan\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\hikiyoseUV_0.xnb
+C:\Users\ichikawa\Documents\Onmyouchan\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\oharaiUV_0.xnb
+C:\Users\ichikawa\Documents\Onmyouchan\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\enemyhakaUV_0.xnb
+C:\Users\ichikawa\Documents\Onmyouchan\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Sound\WaveBank.xwb
+C:\Users\ichikawa\Documents\Onmyouchan\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Sound\SeWaveBank.xwb
+C:\Users\ichikawa\Documents\Onmyouchan\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Sound\SoundBank.xsb
+C:\Users\ichikawa\Documents\Onmyouchan\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Sound\SeSoundBank.xsb
+C:\Users\game\Desktop\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\GameModel\enemyhakaUV.xnb
+C:\Users\game\Desktop\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\Item\Quest1.xnb
+C:\Users\game\Desktop\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\Item\Quest2.xnb
+C:\Users\game\Desktop\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\Item\Quest3.xnb
+C:\Users\game\Desktop\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\Item\ResultCharacter1.xnb
+C:\Users\game\Desktop\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\Item\ResultCharacter2.xnb
+C:\Users\game\Desktop\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\Item\ResultCharacter3.xnb
+C:\Users\game\Desktop\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\Item\ResultCharacter4.xnb
+C:\Users\game\Desktop\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\Item\howtogame.xnb
+C:\Users\game\Desktop\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\Item\howtoplay2.xnb
+C:\Users\game\Desktop\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\Item\howtoplayt3.xnb
+C:\Users\game\Desktop\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\GameModel\EnemyHaka.xnb
+C:\Users\game\Desktop\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\enemyhakaUV_0.xnb
+C:\Users\game\Desktop\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Sound\SeWaveBank.xwb
+C:\Users\game\Desktop\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Sound\SeSoundBank.xsb
+C:\Users\game\Desktop\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\GameModel\timestopUV.xnb
+C:\Users\game\Desktop\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\GameModel\timestop1.xnb
+C:\Users\game\Desktop\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\timestopUV_0.xnb
+D:\保存場所\学校系\課題\プログラム\2年\ゲーム制作(2年)\前期など\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\GameModel\uv2.xnb
+D:\保存場所\学校系\課題\プログラム\2年\ゲーム制作(2年)\前期など\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\GameUI\OhudaIconFrame.xnb
+D:\保存場所\学校系\課題\プログラム\2年\ゲーム制作(2年)\前期など\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\GameUI\OhudaIcon.xnb
+D:\保存場所\学校系\課題\プログラム\2年\ゲーム制作(2年)\前期など\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\GameUI\timeGage.xnb
+D:\保存場所\学校系\課題\プログラム\2年\ゲーム制作(2年)\前期など\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\GameUI\timeGageFrame.xnb
+D:\保存場所\学校系\課題\プログラム\2年\ゲーム制作(2年)\前期など\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\BackGround\ResultBack.xnb
+D:\保存場所\学校系\課題\プログラム\2年\ゲーム制作(2年)\前期など\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\BackGround\title_backGround.xnb
+D:\保存場所\学校系\課題\プログラム\2年\ゲーム制作(2年)\前期など\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\Item\title_logo.xnb
+D:\保存場所\学校系\課題\プログラム\2年\ゲーム制作(2年)\前期など\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Effect\ToonTexture.xnb
+D:\保存場所\学校系\課題\プログラム\2年\ゲーム制作(2年)\前期など\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\GameUI\No\0.xnb
+D:\保存場所\学校系\課題\プログラム\2年\ゲーム制作(2年)\前期など\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\GameUI\No\1.xnb
+D:\保存場所\学校系\課題\プログラム\2年\ゲーム制作(2年)\前期など\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\GameUI\No\2.xnb
+D:\保存場所\学校系\課題\プログラム\2年\ゲーム制作(2年)\前期など\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\GameUI\No\3.xnb
+D:\保存場所\学校系\課題\プログラム\2年\ゲーム制作(2年)\前期など\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\GameUI\No\4.xnb
+D:\保存場所\学校系\課題\プログラム\2年\ゲーム制作(2年)\前期など\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\GameUI\No\5.xnb
+D:\保存場所\学校系\課題\プログラム\2年\ゲーム制作(2年)\前期など\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\GameUI\No\6.xnb
+D:\保存場所\学校系\課題\プログラム\2年\ゲーム制作(2年)\前期など\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\GameUI\No\7.xnb
+D:\保存場所\学校系\課題\プログラム\2年\ゲーム制作(2年)\前期など\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\GameUI\No\8.xnb
+D:\保存場所\学校系\課題\プログラム\2年\ゲーム制作(2年)\前期など\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\GameUI\No\9.xnb
+D:\保存場所\学校系\課題\プログラム\2年\ゲーム制作(2年)\前期など\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\GameUI\GameMenu.xnb
+D:\保存場所\学校系\課題\プログラム\2年\ゲーム制作(2年)\前期など\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\GameUI\GameMenuFrame.xnb
+D:\保存場所\学校系\課題\プログラム\2年\ゲーム制作(2年)\前期など\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\GameUI\Cursor.xnb
+D:\保存場所\学校系\課題\プログラム\2年\ゲーム制作(2年)\前期など\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\GameModel\fudauv1.xnb
+D:\保存場所\学校系\課題\プログラム\2年\ゲーム制作(2年)\前期など\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\GameModel\IMG_2302.xnb
+D:\保存場所\学校系\課題\プログラム\2年\ゲーム制作(2年)\前期など\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\Item\op.xnb
+D:\保存場所\学校系\課題\プログラム\2年\ゲーム制作(2年)\前期など\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\GameUI\Ghost bar.xnb
+D:\保存場所\学校系\課題\プログラム\2年\ゲーム制作(2年)\前期など\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\GameUI\item flame.xnb
+D:\保存場所\学校系\課題\プログラム\2年\ゲーム制作(2年)\前期など\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\GameUI\HorizontallyCursor.xnb
+D:\保存場所\学校系\課題\プログラム\2年\ゲーム制作(2年)\前期など\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\Item\Page1.xnb
+D:\保存場所\学校系\課題\プログラム\2年\ゲーム制作(2年)\前期など\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\GameModel\obakeUV1.xnb
+D:\保存場所\学校系\課題\プログラム\2年\ゲーム制作(2年)\前期など\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\BackGround\StageSelect.xnb
+D:\保存場所\学校系\課題\プログラム\2年\ゲーム制作(2年)\前期など\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\Item\Fade1L.xnb
+D:\保存場所\学校系\課題\プログラム\2年\ゲーム制作(2年)\前期など\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\Item\Fade1R.xnb
+D:\保存場所\学校系\課題\プログラム\2年\ゲーム制作(2年)\前期など\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\Item\Result.xnb
+D:\保存場所\学校系\課題\プログラム\2年\ゲーム制作(2年)\前期など\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\Item\KaStamp.xnb
+D:\保存場所\学校系\課題\プログラム\2年\ゲーム制作(2年)\前期など\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\Item\RyoStamp.xnb
+D:\保存場所\学校系\課題\プログラム\2年\ゲーム制作(2年)\前期など\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\Item\SyuStamp.xnb
+D:\保存場所\学校系\課題\プログラム\2年\ゲーム制作(2年)\前期など\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\Item\YuStamp.xnb
+D:\保存場所\学校系\課題\プログラム\2年\ゲーム制作(2年)\前期など\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\GameModel\hikiyoseUV.xnb
+D:\保存場所\学校系\課題\プログラム\2年\ゲーム制作(2年)\前期など\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\GameModel\oharaiUV.xnb
+D:\保存場所\学校系\課題\プログラム\2年\ゲーム制作(2年)\前期など\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\GameModel\enemyhakaUV.xnb
+D:\保存場所\学校系\課題\プログラム\2年\ゲーム制作(2年)\前期など\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\Item\Quest1.xnb
+D:\保存場所\学校系\課題\プログラム\2年\ゲーム制作(2年)\前期など\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\Item\Quest2.xnb
+D:\保存場所\学校系\課題\プログラム\2年\ゲーム制作(2年)\前期など\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\Item\Quest3.xnb
+D:\保存場所\学校系\課題\プログラム\2年\ゲーム制作(2年)\前期など\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\Item\ResultCharacter1.xnb
+D:\保存場所\学校系\課題\プログラム\2年\ゲーム制作(2年)\前期など\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\Item\ResultCharacter2.xnb
+D:\保存場所\学校系\課題\プログラム\2年\ゲーム制作(2年)\前期など\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\Item\ResultCharacter3.xnb
+D:\保存場所\学校系\課題\プログラム\2年\ゲーム制作(2年)\前期など\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\Item\ResultCharacter4.xnb
+D:\保存場所\学校系\課題\プログラム\2年\ゲーム制作(2年)\前期など\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\Item\howtogame.xnb
+D:\保存場所\学校系\課題\プログラム\2年\ゲーム制作(2年)\前期など\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\Item\howtoplay2.xnb
+D:\保存場所\学校系\課題\プログラム\2年\ゲーム制作(2年)\前期など\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\Item\howtoplayt3.xnb
+D:\保存場所\学校系\課題\プログラム\2年\ゲーム制作(2年)\前期など\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Image\GameUI\Ghost gather.xnb
+D:\保存場所\学校系\課題\プログラム\2年\ゲーム制作(2年)\前期など\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\GameModel\timestopUV.xnb
+D:\保存場所\学校系\課題\プログラム\2年\ゲーム制作(2年)\前期など\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Effect\TriangleEffect.xnb
+D:\保存場所\学校系\課題\プログラム\2年\ゲーム制作(2年)\前期など\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Effect\SkinnedToonEffect.xnb
+D:\保存場所\学校系\課題\プログラム\2年\ゲーム制作(2年)\前期など\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Effect\ToonEffect.xnb
+D:\保存場所\学校系\課題\プログラム\2年\ゲーム制作(2年)\前期など\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Effect\ShadowEffect.xnb
+D:\保存場所\学校系\課題\プログラム\2年\ゲーム制作(2年)\前期など\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\GameModel\fuda1.xnb
+D:\保存場所\学校系\課題\プログラム\2年\ゲーム制作(2年)\前期など\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\GameModel\moderuB1.xnb
+D:\保存場所\学校系\課題\プログラム\2年\ゲーム制作(2年)\前期など\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\GameModel\hakakari4.xnb
+D:\保存場所\学校系\課題\プログラム\2年\ゲーム制作(2年)\前期など\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\GameModel\obakebone3.xnb
+D:\保存場所\学校系\課題\プログラム\2年\ゲーム制作(2年)\前期など\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Sample\O_Cube1.xnb
+D:\保存場所\学校系\課題\プログラム\2年\ゲーム制作(2年)\前期など\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\GameModel\hikiyose1.xnb
+D:\保存場所\学校系\課題\プログラム\2年\ゲーム制作(2年)\前期など\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\GameModel\oharai1.xnb
+D:\保存場所\学校系\課題\プログラム\2年\ゲーム制作(2年)\前期など\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\GameModel\EnemyHaka.xnb
+D:\保存場所\学校系\課題\プログラム\2年\ゲーム制作(2年)\前期など\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\GameModel\timestop1.xnb
+D:\保存場所\学校系\課題\プログラム\2年\ゲーム制作(2年)\前期など\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Font\SpriteFont.xnb
+D:\保存場所\学校系\課題\プログラム\2年\ゲーム制作(2年)\前期など\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\fudauv1_0.xnb
+D:\保存場所\学校系\課題\プログラム\2年\ゲーム制作(2年)\前期など\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\uv2_0.xnb
+D:\保存場所\学校系\課題\プログラム\2年\ゲーム制作(2年)\前期など\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\hakauv4_0.xnb
+D:\保存場所\学校系\課題\プログラム\2年\ゲーム制作(2年)\前期など\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\obakeUV1_0.xnb
+D:\保存場所\学校系\課題\プログラム\2年\ゲーム制作(2年)\前期など\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Sample\O_Cube1_tx_0.xnb
+D:\保存場所\学校系\課題\プログラム\2年\ゲーム制作(2年)\前期など\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\hikiyoseUV_0.xnb
+D:\保存場所\学校系\課題\プログラム\2年\ゲーム制作(2年)\前期など\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\oharaiUV_0.xnb
+D:\保存場所\学校系\課題\プログラム\2年\ゲーム制作(2年)\前期など\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\enemyhakaUV_0.xnb
+D:\保存場所\学校系\課題\プログラム\2年\ゲーム制作(2年)\前期など\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\timestopUV_0.xnb
+D:\保存場所\学校系\課題\プログラム\2年\ゲーム制作(2年)\前期など\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Sound\onmyouchanAudio.xgs
+D:\保存場所\学校系\課題\プログラム\2年\ゲーム制作(2年)\前期など\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Sound\WaveBank.xwb
+D:\保存場所\学校系\課題\プログラム\2年\ゲーム制作(2年)\前期など\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Sound\SeWaveBank.xwb
+D:\保存場所\学校系\課題\プログラム\2年\ゲーム制作(2年)\前期など\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Sound\SoundBank.xsb
+D:\保存場所\学校系\課題\プログラム\2年\ゲーム制作(2年)\前期など\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\Content\Sound\SeSoundBank.xsb
+D:\保存場所\学校系\課題\プログラム\2年\ゲーム制作(2年)\前期など\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\onmyouchan.exe.config
+D:\保存場所\学校系\課題\プログラム\2年\ゲーム制作(2年)\前期など\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\onmyouchan.exe
+D:\保存場所\学校系\課題\プログラム\2年\ゲーム制作(2年)\前期など\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\onmyouchan.pdb
+D:\保存場所\学校系\課題\プログラム\2年\ゲーム制作(2年)\前期など\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\SkinnedModel.dll
+D:\保存場所\学校系\課題\プログラム\2年\ゲーム制作(2年)\前期など\Dteam\onmyouchan\onmyouchan\onmyouchan\bin\x86\Debug\SkinnedModel.pdb
+D:\保存場所\学校系\課題\プログラム\2年\ゲーム制作(2年)\前期など\Dteam\onmyouchan\onmyouchan\onmyouchan\obj\x86\Debug\onmyouchan.csprojResolveAssemblyReference.cache
+D:\保存場所\学校系\課題\プログラム\2年\ゲーム制作(2年)\前期など\Dteam\onmyouchan\onmyouchan\onmyouchan\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\保存場所\学校系\課題\プログラム\2年\ゲーム制作(2年)\前期など\Dteam\onmyouchan\onmyouchan\onmyouchan\obj\x86\Debug\onmyouchan.exe
+D:\保存場所\学校系\課題\プログラム\2年\ゲーム制作(2年)\前期など\Dteam\onmyouchan\onmyouchan\onmyouchan\obj\x86\Debug\onmyouchan.pdb

@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Sections>
+  <WaveBank Name="Wave Bank">Wave Bank
+{
+    Name = Wave Bank;
+    Xbox File = Xbox\Wave Bank.xwb;
+    Windows File = Win\Wave Bank.xwb;
+    Xbox Bank Path Edited = 0;
+    Windows Bank Path Edited = 0;
+    Seek Tables = 1;
+    Compression Preset Name = &lt;none&gt;;
+    Bank Last Revised Low = 1720158702;
+    Bank Last Revised High = 30788141;
+
+    Wave
+    {
+        Name = TitleBGM2;
+        File = TitleBGM2.wav;
+        Build Settings Last Modified Low = 2316381540;
+        Build Settings Last Modified High = 30788140;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 94;
+            Play Region Length = 19395680;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1308690944;
+            Last Modified High = 30786561;
+        }
+    }
+
+    Wave
+    {
+        Name = Menu1;
+        File = Menu1.wav;
+        Build Settings Last Modified Low = 2526807834;
+        Build Settings Last Modified High = 30788140;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 152;
+            Play Region Length = 25920000;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1268690944;
+            Last Modified High = 30786561;
+        }
+    }
+
+    Wave
+    {
+        Name = Game1;
+        File = Game1.wav;
+        Build Settings Last Modified Low = 2705084983;
+        Build Settings Last Modified High = 30788140;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 78;
+            Play Region Length = 16942868;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1248690944;
+            Last Modified High = 30786561;
+        }
+    }
+
+    Wave
+    {
+        Name = Game2;
+        File = Game2.wav;
+        Build Settings Last Modified Low = 2723210820;
+        Build Settings Last Modified High = 30788140;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 148;
+            Play Region Length = 21685248;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1248690944;
+            Last Modified High = 30786561;
+        }
+    }
+
+    Wave
+    {
+        Name = Game3;
+        File = Game3.wav;
+        Build Settings Last Modified Low = 2738675720;
+        Build Settings Last Modified High = 30788140;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 94;
+            Play Region Length = 20191500;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1268690944;
+            Last Modified High = 30786561;
+        }
+    }
+}
+
+</WaveBank>
+</Sections>

@@ -1,0 +1,5 @@
+Content\Sound\onmyouchanAudio.xgs
+Content\Sound\WaveBank.xwb
+Content\Sound\SeWaveBank.xwb
+Content\Sound\SoundBank.xsb
+Content\Sound\SeSoundBank.xsb

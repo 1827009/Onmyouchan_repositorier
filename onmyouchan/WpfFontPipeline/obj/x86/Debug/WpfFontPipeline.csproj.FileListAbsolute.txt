@@ -1,0 +1,25 @@
+C:\Users\Mitsuhiro\Desktop\WpfFont\WpfFontPipeline\bin\x86\Debug\WpfFontPipeline.dll
+C:\Users\Mitsuhiro\Desktop\WpfFont\WpfFontPipeline\bin\x86\Debug\WpfFontPipeline.pdb
+C:\Users\Mitsuhiro\Desktop\WpfFont\WpfFontPipeline\obj\x86\Debug\WpfFontPipeline.csprojResolveAssemblyReference.cache
+C:\Users\Mitsuhiro\Desktop\WpfFont\WpfFontPipeline\obj\x86\Debug\WpfFontPipeline.dll
+C:\Users\Mitsuhiro\Desktop\WpfFont\WpfFontPipeline\obj\x86\Debug\WpfFontPipeline.pdb
+C:\Users\Mitsuhiro\Documents\Visual Studio 2010\Projects\Dteam\onmyouchan\WpfFontPipeline\bin\x86\Debug\WpfFontPipeline.dll
+C:\Users\Mitsuhiro\Documents\Visual Studio 2010\Projects\Dteam\onmyouchan\WpfFontPipeline\bin\x86\Debug\WpfFontPipeline.pdb
+C:\Users\Mitsuhiro\Documents\Visual Studio 2010\Projects\Dteam\onmyouchan\WpfFontPipeline\obj\x86\Debug\WpfFontPipeline.dll
+C:\Users\Mitsuhiro\Documents\Visual Studio 2010\Projects\Dteam\onmyouchan\WpfFontPipeline\obj\x86\Debug\WpfFontPipeline.pdb
+C:\Users\ichikawa\Documents\Onmyouchan\onmyouchan\WpfFontPipeline\bin\x86\Debug\WpfFontPipeline.dll
+C:\Users\ichikawa\Documents\Onmyouchan\onmyouchan\WpfFontPipeline\bin\x86\Debug\WpfFontPipeline.pdb
+C:\Users\ichikawa\Documents\Onmyouchan\onmyouchan\WpfFontPipeline\obj\x86\Debug\WpfFontPipeline.csprojResolveAssemblyReference.cache
+C:\Users\ichikawa\Documents\Onmyouchan\onmyouchan\WpfFontPipeline\obj\x86\Debug\WpfFontPipeline.dll
+C:\Users\ichikawa\Documents\Onmyouchan\onmyouchan\WpfFontPipeline\obj\x86\Debug\WpfFontPipeline.pdb
+C:\Users\Mitsuhiro\Documents\Visual Studio 2010\Projects\Dteam\onmyouchan\WpfFontPipeline\obj\x86\Debug\WpfFontPipeline.csprojResolveAssemblyReference.cache
+C:\Users\game\Desktop\onmyouchan\WpfFontPipeline\bin\x86\Debug\WpfFontPipeline.dll
+C:\Users\game\Desktop\onmyouchan\WpfFontPipeline\bin\x86\Debug\WpfFontPipeline.pdb
+C:\Users\game\Desktop\onmyouchan\WpfFontPipeline\obj\x86\Debug\WpfFontPipeline.csprojResolveAssemblyReference.cache
+C:\Users\game\Desktop\onmyouchan\WpfFontPipeline\obj\x86\Debug\WpfFontPipeline.dll
+C:\Users\game\Desktop\onmyouchan\WpfFontPipeline\obj\x86\Debug\WpfFontPipeline.pdb
+D:\保存場所\学校系\課題\プログラム\2年\ゲーム制作(2年)\前期など\Dteam\onmyouchan\WpfFontPipeline\bin\x86\Debug\WpfFontPipeline.dll
+D:\保存場所\学校系\課題\プログラム\2年\ゲーム制作(2年)\前期など\Dteam\onmyouchan\WpfFontPipeline\bin\x86\Debug\WpfFontPipeline.pdb
+D:\保存場所\学校系\課題\プログラム\2年\ゲーム制作(2年)\前期など\Dteam\onmyouchan\WpfFontPipeline\obj\x86\Debug\WpfFontPipeline.csprojResolveAssemblyReference.cache
+D:\保存場所\学校系\課題\プログラム\2年\ゲーム制作(2年)\前期など\Dteam\onmyouchan\WpfFontPipeline\obj\x86\Debug\WpfFontPipeline.dll
+D:\保存場所\学校系\課題\プログラム\2年\ゲーム制作(2年)\前期など\Dteam\onmyouchan\WpfFontPipeline\obj\x86\Debug\WpfFontPipeline.pdb
